@@ -16,7 +16,7 @@ python -m pip install huggingface_hub
 huggingface-cli login
 ```
 
-TensorBoard
+create a streamlit app and host it on huggingface spaces 
 
 
 
